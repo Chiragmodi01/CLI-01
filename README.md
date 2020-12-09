@@ -1,9 +1,9 @@
-#CLI Quiz App with spiced up fun questions to find out who knows me the best!
+# Let's play MEME MASALA and MYSELF!
 
-Hey guys! I made this fun cli quiz app filled with sarcastic and fun questions about me.
+Hey guys! I made this fun CLI Quiz App filled with sarcastic and fun questions.
 I'm sure you will enjoy playing this:)
 
-#Keep in mind:
+# Keep in mind:
 There are total 10 questions.
 Keep your first letter Capital while answering.
 Each correct answer will give you 1 points.
