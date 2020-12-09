@@ -1,6 +1,6 @@
 # Let's play MEME MASALA and MYSELF!
 
-Hey guys! I made this fun CLI Quiz App filled with sarcastic and fun questions.
+Hey guys! I made this fun CLI Quiz App filled with sarcastic and fun questions. 
 I'm sure you will enjoy playing this:)
 
 # Keep in mind:
